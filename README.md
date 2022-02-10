@@ -6,4 +6,5 @@ The Visual Infrared Imaging Radiometer Suite (VIIRS) Nightfire [dataset](https:/
 
 ![Landing page of application](https://i.imgur.com/n83aAk9.png)
 
-# Functionality
+# Features
+## Query data by date
