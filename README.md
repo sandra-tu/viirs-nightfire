@@ -8,4 +8,7 @@ The Visual Infrared Imaging Radiometer Suite (VIIRS) Nightfire [dataset](https:/
 
 # Features
 ## Query data by date
+Using the control widget, the user is able to see the data on any given date
 ![Visualise data by date](https://i.imgur.com/v6KOPal.gif)
+
+## Colour map data by parameters
