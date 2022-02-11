@@ -15,8 +15,9 @@ Under the filter tab, the user is able to filter points by temperature and radia
 
 ![Colour map data by parameters](https://i.imgur.com/u0wocFA.gif)
 
-## Filter points by temperature and radiant heat intensity ranges
+### Filter points by temperature and radiant heat intensity ranges
 
+![Points being filtered by temperature and RHI range](https://i.imgur.com/hC7gNmy.gif)
 
 ## Query data by date
 Using the control widget, the user is able to see the data on any given date
