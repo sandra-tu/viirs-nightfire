@@ -11,7 +11,7 @@ The control widget in the top left of the page is where the user is able to quer
 
 Under the filter tab, the user is able to filter points by temperature and radiant heat intensity ranges, as well as change the colour mapping of the data points based on different parameters. There is also an option to change the cmap used for aesthetic purposes.
 
-## Colour map data by parameters
+### Colour map data by parameters
 
 ![Colour map data by parameters](https://i.imgur.com/u0wocFA.gif)
 
