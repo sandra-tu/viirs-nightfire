@@ -24,4 +24,6 @@ Under the navigation tab, the user is able to query the data by date as well as 
 ### Query data by date
 ![Visualise data by date](https://i.imgur.com/EV3QnqI.gif)
 
+### Select data within date range in an area of interest
+![](https://i.imgur.com/WRWK4kq.gif)
 
