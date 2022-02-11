@@ -8,3 +8,4 @@ The Visual Infrared Imaging Radiometer Suite (VIIRS) Nightfire [dataset](https:/
 
 # Features
 ## Query data by date
+![Visualise data by date](https://i.imgur.com/v6KOPal.gif)
