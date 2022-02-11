@@ -19,8 +19,9 @@ Under the filter tab, the user is able to filter points by temperature and radia
 
 ![Points being filtered by temperature and RHI range](https://i.imgur.com/hC7gNmy.gif)
 
-## Query data by date
-Using the control widget, the user is able to see the data on any given date
+Under the navigation tab, the user is able to query the data by date as well as select an area of interest to retrieve a date range.
+
+### Query data by date
 ![Visualise data by date](https://i.imgur.com/EV3QnqI.gif)
 
 
