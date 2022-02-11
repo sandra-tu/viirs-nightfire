@@ -7,8 +7,15 @@ The Visual Infrared Imaging Radiometer Suite (VIIRS) Nightfire [dataset](https:/
 ![Landing page of application](https://i.imgur.com/n83aAk9.png)
 
 # Features
+The control widget in the top left of the page is where the user is able to query the data and see analyses. The control widget is split into three tabs: filter, navigation, and analysis.
+
 ## Query data by date
 Using the control widget, the user is able to see the data on any given date
 ![Visualise data by date](https://i.imgur.com/v6KOPal.gif)
 
 ## Colour map data by parameters
+
+![Colour map data by parameters](https://i.imgur.com/u0wocFA.gif)
+
+## Filter points by temperature and radiant heat intensity ranges
+
