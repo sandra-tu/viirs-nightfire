@@ -6,7 +6,7 @@ The Visual Infrared Imaging Radiometer Suite (VIIRS) Nightfire [dataset](https:/
 
 ![Landing page of application](https://i.imgur.com/n83aAk9.png)
 
-Django was used for the backend to retrieve data from the EOG database. OpenLayers was used for the frontend 
+Django was used for the backend to retrieve data from the EOG database. OpenLayers was used for the frontend to obtain the map tiles and manipulate data layers.
 
 # Features
 The control widget in the top left of the page is where the user is able to query the data and see analyses. The control widget is split into three tabs: filter, navigation, and analysis.
@@ -21,7 +21,7 @@ Under the filter tab, the user is able to filter points by temperature and radia
 
 ![Points being filtered by temperature and RHI range](https://i.imgur.com/hC7gNmy.gif)
 
-Under the navigation tab, the user is able to query the data by date as well as select an area of interest to retrieve a date range.
+Under the navigation tab, the user is able to query the data by date as well as select an area of interest to retrieve a date range. When a date range is retrieved, trends in the data will display under the analysis tab, showing changes in number of detections and temperatures over the selected date range.
 
 ### Query data by date
 ![Visualise data by date](https://i.imgur.com/EV3QnqI.gif)
@@ -30,4 +30,4 @@ Under the navigation tab, the user is able to query the data by date as well as 
 ![](https://i.imgur.com/WRWK4kq.gif)
 
 ### Select and compare key sites within area of interest
-![](https://i.imgur.com/BBkAxxB.gif)
+![](https://i.imgur.com/LbVHjwJ.gif)
