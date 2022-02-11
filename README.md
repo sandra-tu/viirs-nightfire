@@ -11,7 +11,7 @@ The control widget in the top left of the page is where the user is able to quer
 
 ## Query data by date
 Using the control widget, the user is able to see the data on any given date
-![Visualise data by date](https://i.imgur.com/v6KOPal.gif)
+![Visualise data by date](https://i.imgur.com/EV3QnqI.gif)
 
 ## Colour map data by parameters
 
